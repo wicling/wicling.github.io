@@ -1,2 +1,2 @@
 # wicling.github.io
-<a href=wicling.github.io>Bekijk site</a>
+<a href=https://wicling.github.io/>Bekijk site</a>
